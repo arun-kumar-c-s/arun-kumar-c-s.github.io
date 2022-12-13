@@ -1,6 +1,4 @@
----
-title:  A Selection of My Data Science Work
----
+# Bringing Data To Life
 
 ## Walmart Sales Prediction
 - Predict the sales of products across 10 different stores in 3 states in US for a period of 28 days.
