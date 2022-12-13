@@ -7,3 +7,7 @@
 
 ## Microsoft Malware Classification
 - Worked with 250 GB of unstructured data to classify a given file as malware or not.
+
+
+## Donor Choose Essay Classification
+- Classifying whether the essay need to be approved for funding School Projects in US.
