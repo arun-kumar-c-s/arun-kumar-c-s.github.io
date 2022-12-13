@@ -1,4 +1,4 @@
-[**Briginging Data To Life**](https://arunkumarcs.com)
+[GitHub](https://github.com/arun-kumar-c-s)
 
 ## Walmart Sales Prediction
 - Predict the sales of products across 10 different stores in 3 states in US for a period of 28 days.
