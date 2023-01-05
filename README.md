@@ -1,6 +1,7 @@
-[My GitHub Repository](https://github.com/arun-kumar-c-s)
+[GitHub](https://github.com/arun-kumar-c-s)
 
-## [Microsoft Malware Classification] (https://github.com/arun-kumar-c-s/Microsoft-Malware-Classification-Challenge)
+## Microsoft Malware Classification 
+[CODE](https://github.com/arun-kumar-c-s/Microsoft-Malware-Classification-Challenge)
 - In this project, I developed a machine learning model to classify assembly code and byte files into 9 different malware families. I worked with a dataset of 200GB of machine code, using multiprocessing and the Google Compute Platform to efficiently process the data.
 
 - I implemented feature extraction using unigram and bigram approaches on hexadecimal pairs, as well as by converting assembly files into image files and extracting pixel features, commands, and headers. I reduced the number of features from 140000 to 1900 using feature selection techniques including chi2, annova, and mutual info scores.
