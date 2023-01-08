@@ -1,4 +1,4 @@
-[GitHub](https://github.com/arun-kumar-c-s)
+[GitHub](https://github.com/arun-kumar-c-s)     [LinkedIn] (https://www.linkedin.com/in/arun-kumar-c-s/) [Email] (tomail:arun@arunkumarcs.com)
 
 ## Microsoft Malware Classification 
 [CODE](https://github.com/arun-kumar-c-s/Microsoft-Malware-Classification-Challenge)
